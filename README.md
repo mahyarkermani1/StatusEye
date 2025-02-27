@@ -1,7 +1,8 @@
 # What does this tool do?
 This is a python script to send **GET requests** to a url address at time intervals entered by the user.
 You can run the program by entering the url address and a number per second. Then the script will send a request to the entered address in the time frame set by you.
-Tool features:
+
+**Tool features**:
 - [x] Interactive and user-friendly environment
 - [x] Show logs on the page
 - [x] Checking the connection to the entered address
@@ -23,6 +24,6 @@ python3 scan.py
 ```
 
 # Images of the tool environment
-In this example, we entered a personal link in our Brett Suiter Lab and told it to send a get request to the entered address every 30 seconds, to prevent the link from expiring.
+In this example, we entered a personal link in our portswigger Lab and told it to send a get request to the entered address every 30 seconds, to prevent the link from expiring.
 
-<img src="https://github.com/mahyarkermani1/StatusEye/images/menu.png" width="30%"></img> <img src="https://github.com/mahyarkermani1/StatusEye/images/requests.png" width="30%"></img> <img src="https://github.com/mahyarkermani1/StatusEye/images/back.png" width="30%"></img>
+<img src="https://github.com/mahyarkermani1/StatusEye/blob/main/images/menu.png" style="width: 30%; height: 40vh;"></img> <img src="https://github.com/mahyarkermani1/StatusEye/blob/main/images/requests.png" style="width: 30%; height: 40vh;"></img> <img src="https://github.com/mahyarkermani1/StatusEye/blob/main/images/back.png" style="width: 30%; height: 40vh;"></img>
